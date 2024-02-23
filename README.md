@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **golang**
 
-- 💬 Ask me about **golang**
+- 💬 Ask me about **Algorithms and dataStructures**
 
 - 📫 How to reach me **moroccobrahem@gmail.com**
 
